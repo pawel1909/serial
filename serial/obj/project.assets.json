@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pafeu\\source\\repos\\serial\\serial\\serial.csproj",
+      "projectUniqueName": "C:\\Users\\Pafeu\\Source\\Repos\\serial\\serial\\serial.csproj",
       "projectName": "serial",
-      "projectPath": "C:\\Users\\Pafeu\\source\\repos\\serial\\serial\\serial.csproj",
+      "projectPath": "C:\\Users\\Pafeu\\Source\\Repos\\serial\\serial\\serial.csproj",
       "packagesPath": "C:\\Users\\Pafeu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pafeu\\source\\repos\\serial\\serial\\obj\\",
+      "outputPath": "C:\\Users\\Pafeu\\Source\\Repos\\serial\\serial\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pafeu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

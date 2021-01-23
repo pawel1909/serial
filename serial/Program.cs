@@ -23,8 +23,8 @@ namespace serial
             //var tab = BinarySerialization.SerializeToMemory<Person>(km);
             //var km1 = BinarySerialization.DeserializeFromMemory<Person>(tab);
 
-            DataContractXMLSerialization.SerializeToFile<Person>(km, "aaa.xml");
-            var km1 = DataContractXMLSerialization.DeserializeFromFile<Person>("aaa.xml");
+            DataContractXMLSerialization.SerializeToFile<Person>(km, "aaa2.xml");
+            var km1 = DataContractXMLSerialization.DeserializeFromFile<Person>("aaa2.xml");
 
             Console.WriteLine(km);
             Console.WriteLine(km1);

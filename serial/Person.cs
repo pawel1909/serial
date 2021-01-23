@@ -6,17 +6,20 @@ using System.Runtime.Serialization;
 namespace serial
 {
     [Serializable]
-    [DataContract]
+    [DataContract(IsReference = true)]
     public class Person : ICloneable
     {
-        [DataMember]
+        [DataMember (Order = 1)]
         public string Name { get; set; }
-        [DataMember]
+        [DataMember (Order = 2)]
         public int Age { get; set; }
-        [DataMember]
+        [DataMember (Order = 3)]
         public Address Address { get; set; }
+        [DataMember]
         public Person Spouse { get; set; }
+        [DataMember]
         public ICollection<Person> Childrens { get; set; } = null;
+
 
         public Person(string name, int age, Address address = null, Person spouse = null)
         {
