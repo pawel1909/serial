@@ -1,0 +1,1 @@
+<Person xmlns="http://schemas.datacontract.org/2004/07/serial" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><Address><City>Kraków</City><PostalCode>31-149</PostalCode><Street>Polna 20</Street></Address><Age>50</Age><Name>KM</Name></Person>

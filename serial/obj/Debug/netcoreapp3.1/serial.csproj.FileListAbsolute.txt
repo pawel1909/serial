@@ -1,0 +1,13 @@
+C:\Users\Pafeu\source\repos\serial\serial\bin\Debug\netcoreapp3.1\serial.exe
+C:\Users\Pafeu\source\repos\serial\serial\bin\Debug\netcoreapp3.1\serial.deps.json
+C:\Users\Pafeu\source\repos\serial\serial\bin\Debug\netcoreapp3.1\serial.runtimeconfig.json
+C:\Users\Pafeu\source\repos\serial\serial\bin\Debug\netcoreapp3.1\serial.runtimeconfig.dev.json
+C:\Users\Pafeu\source\repos\serial\serial\bin\Debug\netcoreapp3.1\serial.dll
+C:\Users\Pafeu\source\repos\serial\serial\bin\Debug\netcoreapp3.1\serial.pdb
+C:\Users\Pafeu\source\repos\serial\serial\obj\Debug\netcoreapp3.1\serial.csprojAssemblyReference.cache
+C:\Users\Pafeu\source\repos\serial\serial\obj\Debug\netcoreapp3.1\serial.AssemblyInfoInputs.cache
+C:\Users\Pafeu\source\repos\serial\serial\obj\Debug\netcoreapp3.1\serial.AssemblyInfo.cs
+C:\Users\Pafeu\source\repos\serial\serial\obj\Debug\netcoreapp3.1\serial.csproj.CoreCompileInputs.cache
+C:\Users\Pafeu\source\repos\serial\serial\obj\Debug\netcoreapp3.1\serial.dll
+C:\Users\Pafeu\source\repos\serial\serial\obj\Debug\netcoreapp3.1\serial.pdb
+C:\Users\Pafeu\source\repos\serial\serial\obj\Debug\netcoreapp3.1\serial.genruntimeconfig.cache
